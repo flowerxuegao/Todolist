@@ -28,7 +28,7 @@ vue2.0脚手架 <br />
 Mysql数据库
 
 #### 预览地址
-[备忘录](http://palpitation.shop/web/ "备忘录") 
+[备忘录](http://palpitation.shop/web/todolist/ "备忘录") 
 
 #### 开发人员
 > 自然是作者啦（~v~）
